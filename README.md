@@ -16,5 +16,5 @@
 
 - [Geonwoo Ko](https://github.com/geonwooko)
 - [JinHeon_Yoon](https://github.com/yjinheon)
-- [KimTaeWook](https://github.com/ktw09876)
+- [TaeWook Kim](https://github.com/ktw09876)
 - [Seungjun_Lee](https://github.com/junslee96)
