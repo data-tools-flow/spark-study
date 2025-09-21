@@ -8,7 +8,7 @@
 - <https://sparkbyexamples.com/>
 - 파이썬을 활용한 스파크 프로그래밍
 - <https://messy-farmer-90e.notion.site/42f68f5632ca4d3194d0be47a1ec0809>
-- [LearningApacheSpark](https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf)
+- [LearningApacheSpark](https://runawayhorse001.github.io/LearningApacheSpark)
 - <https://github.com/josephmachado/efficient_data_processing_spark>
 - <https://github.com/clflushopt/tpchgen-rs>
 
